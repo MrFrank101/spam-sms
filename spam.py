@@ -28,8 +28,8 @@ def spin():
 
 spin()
 print ('\n		    HARAP LOGIN MENGGUNAKAN USERNAME AND PASSWORD!!!')
-username = "RELLHACK"
-password = "14092005"
+username = "kali"
+password = "kali"
 
 def login (user_name, pass_word) :
     if user_name != username and Pass_word != password :
